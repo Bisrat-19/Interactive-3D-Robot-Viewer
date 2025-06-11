@@ -1,7 +1,8 @@
 # 🚀 Interactive 3D Robot Toy Viewer  
 *A Three.js-based 3D product viewer with animations and interactivity* 
 
-![image](https://github.com/user-attachments/assets/6572d5db-4aeb-478f-8473-48b49b10e0c8)
+![image](https://github.com/user-attachments/assets/9aa26e94-6f9d-41aa-a19e-63d8f2f41081)
+
 
 ## 🔥 Features  
 - **Interactive Robot Model**: Built with basic geometries (boxes, cylinders, spheres).  
